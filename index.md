@@ -16,7 +16,7 @@ I am Nhut Bui Nguyen Cong (first, last, and middle name) from Ho Chi Minh city, 
 
 I am a person who loves technology and willing to learn new things. My hobbies are listening to music, traveling and fashion.
 
-Currently, I am looking for a position as a Intern in the field of embedded or automation tester.
+Currently,I am self-studying Java, Selenium,... for Testing and Automation Testing. I am looking for a position as a Intern in the field of automation tester or embedded to learning and gain more experience.
 
 
 
@@ -26,7 +26,7 @@ Currently, I am looking for a position as a Intern in the field of embedded or a
 
 ### Sai Gon University, VietNam
 * Time: Nov 2017 - Sep 2022
-* Degreee of Engineering in Electrical and Electronix Engineering Technology
+* Degreee of Engineering in Electrical and Electronic Engineering Technology
 * GPA: 7.14/10
 
 
@@ -52,19 +52,7 @@ General: Auto Testing.
 Certificate: TOEIC 495
 
 
-<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/62d638d9b0d10b6f3e7d0292/1g8acs4us';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-</script>
-<!--End of Tawk.to Script-->
+
 
 
 
