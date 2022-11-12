@@ -36,8 +36,8 @@ Currently, I am looking for a position as a Intern in the field of embedded or a
 
 Graduation internship
   * At ADSUN Joint Stock Company
-  * Time : Feb 2022 - Arp 2022
-  * 
+  * Time : Feb 2022 - Apr 2022
+  * Technical Staff
 
   
 
@@ -47,9 +47,7 @@ Graduation internship
 
 Language: C/C++, Java
 
-Framework: TensorFlow, Pytorch
-
-General: Machine Learning, Deep Learning, Computer Vision, and Image Processing.
+General: Auto Testing.
 
 Certificate: TOEIC 495
 
