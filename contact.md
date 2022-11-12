@@ -14,8 +14,6 @@ order: 4
 
 GitHub: [https://github.com/NhutBuiNC](https://github.com/NhutBuiNC)
 
-Twitter: [https://twitter.com/anh_ph_tu](https://twitter.com/anh_ph_tu)
-
 Linkedin: [https://www.linkedin.com/in/nhutbui99/](https://www.linkedin.com/in/nhutbui99/)
 
 Facebook : [https://www.facebook.com/cong.nhut.2109](https://www.facebook.com/cong.nhut.2109)
