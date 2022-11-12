@@ -25,7 +25,7 @@ Currently, I am looking for a position as a Intern in the field of embedded or a
 
 
 ### Sai Gon University, VietNam
-* Time: Dec 2017 - Sep 2022
+* Time: Nov 2017 - Sep 2022
 * Degreee of Engineering in Electrical and Electronix Engineering Technology
 * GPA: 7.14/10
 
