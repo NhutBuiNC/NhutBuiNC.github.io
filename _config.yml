@@ -14,8 +14,8 @@ cayman-blog:
 theme: # leave it empty
 
 # social
-author: "nhutbuinc"
-image: /thumbnail-jumbo.png
-twitter:
-  username:
+#author: "nhutbuinc"
+#image: /thumbnail-jumbo.png
+#twitter:
+ # username:
 #  site:
