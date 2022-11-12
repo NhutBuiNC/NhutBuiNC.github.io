@@ -1,9 +1,9 @@
-title: Anh Pham Tuan
-description: Artificial intelligence , Deep Learning , Machine Learning
+title: Nhut Bui Nguyen Cong
+description: Auto Tester
 show_downloads: false
 
 baseurl: # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://anhphtu.github.io" # change this to the base hostname & protocol for your site
+url: "https://nhutbuinc.github.io" # change this to the base hostname & protocol for your site
 
 google_analytics:
 # cayman-blog date format
@@ -14,8 +14,8 @@ cayman-blog:
 theme: # leave it empty
 
 # social
-author: "anhphtu"
+author: "nhutbuinc"
 image: /thumbnail-jumbo.png
 twitter:
-  username: anh_ph_tu
+  username:
 #  site:
