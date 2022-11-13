@@ -13,7 +13,7 @@ order: 3
 
 Get my CV: [Click here](https://drive.google.com/file/d/1tVVJt6-SjgWUJp-Mo7wB1a2udSjOHJ6A/view?usp=sharing)
 
-Check my Graduation Degree: [Click here](https://drive.google.com/file/d/1LMZSbS0O9Q25Vzv46IwjmOINzNMDBLFN/view?usp=sharing)
+Check my Graduation Degree: [Click here](https://drive.google.com/file/d/1x8F5zdIvgR6woTC900FWbr59yn1kvJzY/view?usp=sharing)
 
 Check my Transcript: [Click here](https://drive.google.com/file/d/1Rkunp4V8X7GprPl-cBSDkfUXcJaYOo3W/view?usp=sharing)
 
