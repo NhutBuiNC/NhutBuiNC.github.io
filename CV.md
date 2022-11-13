@@ -15,7 +15,7 @@ Get my CV: [Click here](https://drive.google.com/file/d/1tVVJt6-SjgWUJp-Mo7wB1a2
 
 Check my Graduation Degree: [Click here](https://drive.google.com/file/d/1x8F5zdIvgR6woTC900FWbr59yn1kvJzY/view?usp=sharing)
 
-Check my Transcript: [Click here](https://drive.google.com/file/d/1Rkunp4V8X7GprPl-cBSDkfUXcJaYOo3W/view?usp=sharing)
+Check my Transcript: [Click here](https://drive.google.com/drive/folders/1yEclQ5WF810jgJdiK1qkMAvAu7TUJS83?usp=sharing)
 
 
 
