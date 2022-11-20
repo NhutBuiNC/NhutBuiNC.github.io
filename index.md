@@ -16,7 +16,7 @@ I am Nhut Bui Nguyen Cong (first, last, and middle name) from Ho Chi Minh city, 
 
 I am a person who loves technology and willing to learn new things. My hobbies are listening to music, traveling and fashion.
 
-Currently,I am self-studying Java, Selenium,... for Testing and Automation Testing. I am looking for a position as a fresher in the field of automation tester by Java or embedded by C to learning and gain more experience.
+Currently,I am self-studying Java, Selenium,... for Testing and Automation Testing. I am looking for a position as a fresher in the field of automation tester by Java or embedded by C/C++ to learning and gain more experience.
 
 
 
@@ -45,7 +45,7 @@ Graduation internship
 ------
 ## Technicain skill
 
-Language: C, Java
+Language: C/C++, Java
 
 General: Auto Testing, Embedded.
 
