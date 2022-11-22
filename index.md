@@ -47,7 +47,7 @@ Graduation internship
 
 Language: C/C++, Java
 
-General: Embedded, Auto Testing.
+General: Embedded, Auto Tester.
 
 Certificate: TOEIC 495
 
